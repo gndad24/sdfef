@@ -5,7 +5,7 @@ gap> f:=x^23-9;
 x^23+Z(2)^0
 gap> Factors(f);
 [ x+Z(2)^0, x^11+x^9+7+x^6+x^5+x+(2), x^11+x^10+x^5^4+x^2+Z(2)^0 ]
-gap> f:=First(Factors(f),i->Degree(i)>1);
+gap> f:=First(Factors(f),i->Degre(i)>1);
 x^11+x^9+x^7+x^6+x^5+x+Z(2)^0
 
 gap> x:=Indeterminate(GF(2));
