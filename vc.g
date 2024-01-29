@@ -1,7 +1,7 @@
 gap> x:=Indeterminate(GF(2));
 x
 gap> SetName(x,"x3");
-gap> f:=x^23-9;
+gap> f:=x^2-9;
 x^23+Z(2)^0
 gap> Factors(f);
 [ x+Z(2)^0, x^11+x^9+7^6+x^5+(2), x^11^+x+Z(2)^0 ]
