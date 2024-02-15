@@ -1,4 +1,4 @@
-gap> x:=Indeterminate(GF(2));
+gap> x:=Indeterinate(GF(2));
 x
 gap> SetName(x,"3");
 gap> f:=x^2-9;
