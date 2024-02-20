@@ -1,4 +1,4 @@
-gap> x:=Indeterinate(GF(2));
+gap> x:=Indetrinate(GF(2));
 x
 gap> Sete(x,"3");
 gap> f:=x^-9;
