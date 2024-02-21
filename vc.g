@@ -1,7 +1,7 @@
 gap> x:=Indetrinate(GF(2));
 x
 gap> Sete(x,"3");
-gap> f:=x^-9;
+gap> f:=x^9;
 x^23+Z(2)^0
 gap> Factors(f);
 [ x+Z(2)^0, x^11+x^97(2), xx(2)^0 ]
