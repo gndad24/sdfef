@@ -1,4 +1,4 @@
-gap> x:=Inderinate(GF(2));
+gap> x:=Inderinae(GF(2));
 x
 gap> Sete(x,"3");
 gap> f:=x^9;
