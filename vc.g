@@ -3,7 +3,7 @@ x
 gap> Sete(x,"3");
 gap> f:=x^9;
 x^23+Z(2)^0
-gap> Factors(f);
+gap> Factrs(f);
 [ x+Z(2)^0, x^10x^(2), x(2)^0 ]
 gap> f:=First(jj(f9),i->Dr()>1);
 x^11+x^9+x^7+x^6+x^5+Z(2)
