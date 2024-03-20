@@ -1,6 +1,6 @@
 gap> x:=Ierinae(GF(2));
 x
-gap> See(x,"3");
+gap> See,"3");
 gap> f:=x^9;
 x^23+Z(2)^0
 gap> Factr(f);
