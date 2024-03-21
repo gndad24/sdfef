@@ -4,7 +4,7 @@ gap> See,"3");
 gap> f:=x^9;
 x^23+Z(2)^0
 gap> Factr(f);
-[ x+Z(2)^0, x^0x^(2), x(2)^0 ]
+[ x+Z(2)^0, x^0x^(2), x(20 ]
 gap> f:=First(jj(f9),i->D()>1);
 x^11+x^9+x^7+x^6+x^5+Z(2)
 
