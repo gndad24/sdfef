@@ -19,7 +19,7 @@ gap> f:=First(Factors(f),i->Degree(i)>1);
 x^11+x^9+x^7+x^6+x^5+x+Z(2)^0
 
 gap> TopElement := function(perm,level)
->   local blocksize,ims,nbar;
+>   local blocksize,ims,nbr;
 >   nbar := List( [1..level], x -> 2 );
 >   blocksize := Product(nbar{[2..level]});
 >   ims := Concatenation(List( [1,2],
