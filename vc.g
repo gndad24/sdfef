@@ -14,7 +14,7 @@ gap> SetName(x,"x");
 gap> f:=x^23-1;
 x^23+Z(2)^0
 gap> Factors(f);
-[ x+Z(2)^0, x^11+x^9+x^7+x^6+x+Z(2)^0, x^11+x0+x^x^5+x^4+x^2+Z(2)^0 ]
+[ x+Z(2)^0, x^11+x^9+x^7+x^6+x+Z(2)^0, x^11+x+x^x^5+x^4+x^2+Z(2)^0 ]
 gap> f:=First(Factors(f),i->Degree(i)>1);
 x^11+x^9+x^7+x^6+x^5+x+Z(2)^0
 
