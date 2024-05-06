@@ -8,7 +8,7 @@ gap> Factr(f);
 gap> f:=First(j(f),i->D()>1);
 x^11+x^9+x^7+x^6+x^5+Z(2)
 
-gap> x:=Indeterminate(GF(2));
+gap> x:=Indetermiate(GF(2));
 x
 gap> SetName(x,"x");
 gap> f:=x^23-1;
