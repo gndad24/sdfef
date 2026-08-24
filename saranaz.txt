@@ -30,7 +30,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 04
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@jkwla.restaurantbomb.com:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇺🇸 05
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@cookiebot.com:2087?encryption=none&type=xhttp&security=tls&sni=5adb17b93ebf7788.zarinplus.net&host=vitfk.zarinplus.net&path=/cookie-consent-solution&mode=auto#🇺🇸 06
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@kslame.restaurantbomb.com:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇺🇸 07
-vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@uskdl.restaurantbomb.com:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇺🇸 08
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@skkao.restaurantbomb.com:10985?encryption=none&security=reality&sni=www.yahoo.com&fp=firefox&pbk=YHpxdq3UWoSZyk_mw5hUWvSkWIN4A8bksnnxrfHrzBE&sid=b5516a2b1bdcb4f6&packetEncoding=xudp#🇨🇦 01
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@lwoka.restaurantbomb.com:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇨🇦 02
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@cookiebot.com:2087?encryption=none&type=xhttp&security=tls&sni=d446d0088d420d06.zarinplus.net&host=fkmc.zarinplus.net&path=/cookie-consent-solution&mode=auto#🇫🇮 01
